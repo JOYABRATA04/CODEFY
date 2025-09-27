@@ -1,0 +1,9 @@
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Prevent crawling of unnecessary files
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://codefy.in/sitemap.xml
